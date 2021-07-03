@@ -3,8 +3,8 @@ iso_code,International Organization for Standardization,ISO 3166-1 alpha-3 – t
 continent,Our World in Data,Continent of the geographical location
 location,Our World in Data,Geographical location
 date,Our World in Data,Date of observation
-total_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total confirmed cases of COVID-19
-new_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New confirmed cases of COVID-19
+total_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total de casos confirmandos COVID-19
+new_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Novos casos confirmados de COVID-19
 new_cases_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New confirmed cases of COVID-19 (7-day smoothed)
 total_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total deaths attributed to COVID-19
 new_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New deaths attributed to COVID-19
