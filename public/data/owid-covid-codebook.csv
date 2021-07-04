@@ -1,14 +1,14 @@
 column,source,description
-iso_code,International Organization for Standardization,ISO 3166-1 alpha-3 – three-letter country codes
-continent,Our World in Data,Continent of the geographical location
-location,Our World in Data,Geographical location
-date,Our World in Data,Date of observation
-total_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total de casos confirmandos COVID-19
+iso_code,International Organization for Standardization,ISO 3166-1 alpha-3 – código de três letras dos países
+continent,Our World in Data,Continente da localização geográfica
+location,Our World in Data, Localização geográfica
+date,Our World in Data,Data da observação
+total_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total de casos confirmandos de COVID-19
 new_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Novos casos confirmados de COVID-19
-new_cases_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New confirmed cases of COVID-19 (7-day smoothed)
-total_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total deaths attributed to COVID-19
-new_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New deaths attributed to COVID-19
-new_deaths_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,New deaths attributed to COVID-19 (7-day smoothed)
+new_cases_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Novos casos confirmados de COVID-19 (7-day smoothed)
+total_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Total de mortes atribuidas a COVID-19
+new_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Novas mortes atribuidas a COVID-19
+new_deaths_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Novas mortes atribuidas a COVID-19 (7-day smoothed)
 total_cases_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Total confirmed cases of COVID-19 per 1,000,000 people"
 new_cases_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"New confirmed cases of COVID-19 per 1,000,000 people"
 new_cases_smoothed_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"New confirmed cases of COVID-19 (7-day smoothed) per 1,000,000 people"
