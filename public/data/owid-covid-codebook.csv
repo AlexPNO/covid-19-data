@@ -43,7 +43,7 @@ people_vaccinated_per_hundred,National government reports,Numero total de pessoa
 people_fully_vaccinated_per_hundred,National government reports,Numero total de pessoas que receberam todas as doses determinadas pelos protocolos por 100 pessoas no total da população
 new_vaccinations_smoothed_per_million,National government reports,"Novas doses de vacina COVID-19  administadas (7-day smoothed) por 1,000,000 pessoas no total da população"
 stringency_index,"Oxford COVID-19 Government Response Tracker, Blavatnik School of Government","Government ´Tndice de Resposta Rigorosa: medida composta baseada em 9 indicadores incluindo fechamento de escolas, fechamento de locais de trabalho, e restrições de viagens, redimensionada pra um valor de 0 a 100 (100 = resposta mais rígida)"
-population,"United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects 2019 Revision",Population in 2020
+population,"United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects 2019 Revision",Populaação em 2020
 population_density,"World Bank World Development Indicators, sourced from Food and Agriculture Organization and World Bank estimates","Numéro da população dividido por área geográfica, medido em kilometros quadrados, ano mais recente disponível"
 median_age,"UN Population Division, World Population Prospects, 2017 Revision","Idade média da população, projeção das Nações Unidas para 2020"
 aged_65_older,World Bank World Development Indicators based on age/sex distributions of United Nations World Population Prospects 2017 Revision,"Parcela da população com 65 anos ou mais, ano mais recente disponível"
