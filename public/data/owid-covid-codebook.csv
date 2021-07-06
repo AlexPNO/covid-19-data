@@ -16,46 +16,46 @@ total_deaths_per_million,COVID-19 Data Repository by the Center for Systems Scie
 new_deaths_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Novas mortes atribuidas a COVID-19 por 1,000,000 de pessoas"
 new_deaths_smoothed_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Novas mortes atribuidas a COVID-19 (7-day smoothed) por 1,000,000 de pessoas"
 reproduction_rate,Arroyo Marioli et al. (2020). https://doi.org/10.2139/ssrn.3581633,Real-time estimate of the effective reproduction rate (R) of COVID-19. See https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
-icu_patients,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,Number of COVID-19 patients in intensive care units (ICUs) on a given day
+icu_patients,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,Número de pacientes de COVID-19 em unidades de tratamento intensivo (UTIs) em um dado dia
 icu_patients_per_million,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,"Número de pacientes de COVID-19 em unidades de tratamento intensivo (UTIs) em um dado dia por 1,000,000 pessoas"
 hosp_patients,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,Número de pacientes de COVID-19 no hospital em um dado dia
 hosp_patients_per_million,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,"Número de pacientes de COVID-19 no hospital em um dado dia por 1,000,000 de pessoas"
-weekly_icu_admissions,European CDC for European countries / UK Government,Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week
-weekly_icu_admissions_per_million,European CDC for European countries / UK Government,"Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week per 1,000,000 people"
-weekly_hosp_admissions,European CDC for European countries / UK Government / HHS for the United States,Number of COVID-19 patients newly admitted to hospitals in a given week
-weekly_hosp_admissions_per_million,European CDC for European countries / UK Government / HHS for the United States,"Number of COVID-19 patients newly admitted to hospitals in a given week per 1,000,000 people"
-total_tests,National government reports,Total tests for COVID-19
-new_tests,National government reports,New tests for COVID-19 (only calculated for consecutive days)
-total_tests_per_thousand,National government reports,"Total tests for COVID-19 per 1,000 people"
-new_tests_per_thousand,National government reports,"New tests for COVID-19 per 1,000 people"
-new_tests_smoothed,National government reports,"New tests for COVID-19 (7-day smoothed). For countries that don't report testing data on a daily basis, we assume that testing changed equally on a daily basis over any periods in which no data was reported. This produces a complete series of daily figures, which is then averaged over a rolling 7-day window"
-new_tests_smoothed_per_thousand,National government reports,"New tests for COVID-19 (7-day smoothed) per 1,000 people"
-positive_rate,National government reports,"The share of COVID-19 tests that are positive, given as a rolling 7-day average (this is the inverse of tests_per_case)"
-tests_per_case,National government reports,"Tests conducted per new confirmed case of COVID-19, given as a rolling 7-day average (this is the inverse of positive_rate)"
-tests_units,National government reports,Units used by the location to report its testing data
-total_vaccinations,National government reports,Total number of COVID-19 vaccination doses administered
-people_vaccinated,National government reports,Total number of people who received at least one vaccine dose
-people_fully_vaccinated,National government reports,Total number of people who received all doses prescribed by the vaccination protocol
-new_vaccinations,National government reports,New COVID-19 vaccination doses administered (only calculated for consecutive days)
-new_vaccinations_smoothed,National government reports,"New COVID-19 vaccination doses administered (7-day smoothed). For countries that don't report vaccination data on a daily basis, we assume that vaccination changed equally on a daily basis over any periods in which no data was reported. This produces a complete series of daily figures, which is then averaged over a rolling 7-day window"
-total_vaccinations_per_hundred,National government reports,Total number of COVID-19 vaccination doses administered per 100 people in the total population
-people_vaccinated_per_hundred,National government reports,Total number of people who received at least one vaccine dose per 100 people in the total population
-people_fully_vaccinated_per_hundred,National government reports,Total number of people who received all doses prescribed by the vaccination protocol per 100 people in the total population
-new_vaccinations_smoothed_per_million,National government reports,"New COVID-19 vaccination doses administered (7-day smoothed) per 1,000,000 people in the total population"
-stringency_index,"Oxford COVID-19 Government Response Tracker, Blavatnik School of Government","Government Response Stringency Index: composite measure based on 9 response indicators including school closures, workplace closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest response)"
+weekly_icu_admissions,European CDC for European countries / UK Government,Número de pacientes de COVID-19 novos admitidos em unidades de tratamento intensivo (UTIs) em uma dada semana
+weekly_icu_admissions_per_million,European CDC for European countries / UK Government,",Número de pacientes de COVID-19 novos admitidos em unidades de tratamento intensivo (UTIs) em uma dada semana por 1,000,000 de pessoas"
+weekly_hosp_admissions,European CDC for European countries / UK Government / HHS for the United States,Número de pacientes de COVID-19 novos admitidos em hospitais em uma dada semana
+weekly_hosp_admissions_per_million,European CDC for European countries / UK Government / HHS for the United States,"Número de pacientes de COVID-19 novos admitidos em hospitais em uma dada semana por 1,000,000 de pessoas"
+total_tests,National government reports,Total de testes para COVID-19
+new_tests,National government reports,Novos testes para COVID-19 (calculados apenas para dias consecutivos)
+total_tests_per_thousand,National government reports,"Total de testes para COVID-19 por 1,000 pessoas"
+new_tests_per_thousand,National government reports,"Novos testes para COVID-19 por 1,000 pessoas"
+new_tests_smoothed,National government reports,"Novos testes para COVID-19 (7-day smoothed). Para países que não relatam dados de teste diariamente, presumimos que os testes mudaram igualmente diariamente em todos os períodos em que nenhum dado foi relatado. Isso produz uma série completa de números diários, que é então calculada ao longo de uma janela contínua de 7 dias"
+new_tests_smoothed_per_thousand,National government reports,"Novos testes para COVID-19 (7-day smoothed) por 1,000 pessoas"
+  positive_rate,National government reports,"A parcela de testes para COVID-19 que são positivos, dado uma média de 7 dias (this is the inverse of tests_per_case)"
+tests_per_case,National government reports,"Testes conduzidos por novo caso confirmado de COVID-19, dado como uma média contínua de 7 dias (este é o inverso de Positive_rate)"
+tests_units,National government reports,Unidades usadas pelo local para reportar os dados de teste
+total_vaccinations,National government reports,Numero total de doses de vacina COVID-19  administadas
+people_vaccinated,National government reports,Numero total de pessoas que recebram pelo menos uma dose da vacina
+people_fully_vaccinated,National government reports,Numero total de pessoas que receberam todas as doses determinadas pelos protocolos
+new_vaccinations,National government reports,Novas doses de vacina COVID-19  administadas (só calculadas para dias consecutivos)
+new_vaccinations_smoothed,National government reports,"Novas doses de vacina COVID-19  administadas (7-day smoothed). Para os países que não relatam dados de vacinação diariamente, presumimos que a vacinação mudou igualmente diariamente em qualquer período em que nenhum dado foi relatado. Isso produz uma série completa de números diários, que é então calculada ao longo de uma janela contínua de 7 dias"
+total_vaccinations_per_hundred,National government reports,Numero total de doses de vacina COVID-19  administadas por 100 pessoas no total da população
+people_vaccinated_per_hundred,National government reports,Numero total de pessoas que recebram pelo menos uma dose da vacina por 100 pessoas no total da população
+people_fully_vaccinated_per_hundred,National government reports,Numero total de pessoas que receberam todas as doses determinadas pelos protocolos por 100 pessoas no total da população
+new_vaccinations_smoothed_per_million,National government reports,"Novas doses de vacina COVID-19  administadas (7-day smoothed) por 1,000,000 pessoas no total da população"
+stringency_index,"Oxford COVID-19 Government Response Tracker, Blavatnik School of Government","Government ´Tndice de Resposta Rigorosa: medida composta baseada em 9 indicadores incluindo fechamento de escolas, fechamento de locais de trabalho, e restrições de viagens, redimensionada pra um valor de 0 a 100 (100 = resposta mais rígida)"
 population,"United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects 2019 Revision",Population in 2020
-population_density,"World Bank World Development Indicators, sourced from Food and Agriculture Organization and World Bank estimates","Number of people divided by land area, measured in square kilometers, most recent year available"
-median_age,"UN Population Division, World Population Prospects, 2017 Revision","Median age of the population, UN projection for 2020"
-aged_65_older,World Bank World Development Indicators based on age/sex distributions of United Nations World Population Prospects 2017 Revision,"Share of the population that is 65 years and older, most recent year available"
-aged_70_older,"United Nations, Department of Economic and Social Affairs, Population Division (2017), World Population Prospects 2017 Revision",Share of the population that is 70 years and older in 2015
-gdp_per_capita,"World Bank World Development Indicators, source from World Bank, International Comparison Program database","Gross domestic product at purchasing power parity (constant 2011 international dollars), most recent year available"
-extreme_poverty,"World Bank World Development Indicators, sourced from World Bank Development Research Group","Share of the population living in extreme poverty, most recent year available since 2010"
-cardiovasc_death_rate,"Global Burden of Disease Collaborative Network, Global Burden of Disease Study 2017 Results","Death rate from cardiovascular disease in 2017 (annual number of deaths per 100,000 people)"
-diabetes_prevalence,"World Bank World Development Indicators, sourced from International Diabetes Federation, Diabetes Atlas",Diabetes prevalence (% of population aged 20 to 79) in 2017
-female_smokers,"World Bank World Development Indicators, sourced from World Health Organization, Global Health Observatory Data Repository","Share of women who smoke, most recent year available"
-male_smokers,"World Bank World Development Indicators, sourced from World Health Organization, Global Health Observatory Data Repository","Share of men who smoke, most recent year available"
-handwashing_facilities,United Nations Statistics Division,"Share of the population with basic handwashing facilities on premises, most recent year available"
-hospital_beds_per_thousand,"OECD, Eurostat, World Bank, national government records and other sources","Hospital beds per 1,000 people, most recent year available since 2010"
-life_expectancy,"James C. Riley, Clio Infra, United Nations Population Division",Life expectancy at birth in 2019
-human_development_index,United Nations Development Programme (UNDP),"A composite index measuring average achievement in three basic dimensions of human development—a long and healthy life, knowledge and a decent standard of living. Values for 2019, imported from http://hdr.undp.org/en/indicators/137506"
-excess_mortality,Human Mortality Database (HMD) Short-term Mortality Fluctuations project and World Mortality Dataset (WMD),"Excess mortality P-scores for all ages; see https://github.com/owid/covid-19-data/tree/master/public/data/excess_mortality for the definition of the P-score and how we calculate it"
+population_density,"World Bank World Development Indicators, sourced from Food and Agriculture Organization and World Bank estimates","Numéro da população dividido por área geográfica, medido em kilometros quadrados, ano mais recente disponível"
+median_age,"UN Population Division, World Population Prospects, 2017 Revision","Idade média da população, projeção das Nações Unidas para 2020"
+aged_65_older,World Bank World Development Indicators based on age/sex distributions of United Nations World Population Prospects 2017 Revision,"Parcela da população com 65 anos ou mais, ano mais recente disponível"
+aged_70_older,"United Nations, Department of Economic and Social Affairs, Population Division (2017), World Population Prospects 2017 Revision",Parcela da população com 70 anos ou mais em 2015
+gdp_per_capita,"World Bank World Development Indicators, source from World Bank, International Comparison Program database","Produto interno bruto com paridade do poder de compra (dólares internacionais constantes de 2011), ano mais recente disponível"
+extreme_poverty,"World Bank World Development Indicators, sourced from World Bank Development Research Group","Parcela da população que vive na extrema pobreza, ano mais recente disponível desde 2010"
+cardiovasc_death_rate,"Global Burden of Disease Collaborative Network, Global Burden of Disease Study 2017 Results","Taxa de mortalidade por doenças cardiovasculares em 2017 (número anual de mortes por 100.000 pessoas)"
+diabetes_prevalence,"World Bank World Development Indicators, sourced from International Diabetes Federation, Diabetes Atlas",Prevalência de diabetes (% da população de 20 a 79 anos) em 2017
+female_smokers,"World Bank World Development Indicators, sourced from World Health Organization, Global Health Observatory Data Repository","Parcela de mulheres que fumam, ano mais recente disponível"
+male_smokers,"World Bank World Development Indicators, sourced from World Health Organization, Global Health Observatory Data Repository","Parcela de homens que fumam, ano mais recente disponível"
+handwashing_facilities,United Nations Statistics Division,"Parcela da população com instalações básicas de lavagem das mãos no local, ano mais recente disponível"
+hospital_beds_per_thousand,"OECD, Eurostat, World Bank, national government records and other sources","Leitos hospitalares por 1.000 pessoas, ano mais recente disponível desde 2010"
+life_expectancy,"James C. Riley, Clio Infra, United Nations Population Division",Expectativa de vida ao nascer em 2019
+human_development_index,United Nations Development Programme (UNDP),"Um índice composto que mede o desempenho médio em três dimensões básicas do desenvolvimento humano - uma vida longa e saudável, conhecimento e um padrão de vida decente. Valores para 2019, importados de http://hdr.undp.org/en/indicators/137506 "
+excess_mortality,Human Mortality Database (HMD) Short-term Mortality Fluctuations project and World Mortality Dataset (WMD),"Excesso de mortalidade P-score para todas as idades; veja https://github.com/owid/covid-19-data/tree/master/public/data/excess_mortality para a definição do P-score e como o calculamos"
