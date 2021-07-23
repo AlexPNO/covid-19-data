@@ -15,13 +15,13 @@ new_cases_smoothed_per_million,COVID-19 Data Repository by the Center for System
 total_deaths_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Total de mortes atribuidas a COVID-19 por 1,000,000 de pessoas"
 new_deaths_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Novas mortes atribuidas a COVID-19 por 1,000,000 de pessoas"
 new_deaths_smoothed_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,"Novas mortes atribuidas a COVID-19 (7-day smoothed) por 1,000,000 de pessoas"
-reproduction_rate,Arroyo Marioli et al. (2020). https://doi.org/10.2139/ssrn.3581633,Real-time estimate of the effective reproduction rate (R) of COVID-19. See https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
+reproduction_rate,Arroyo Marioli et al. (2020). https://doi.org/10.2139/ssrn.3581633,Estimativa em tempo real da taxa efetiva de reprodução (R) da COVID-19. See https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
 icu_patients,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,Número de pacientes de COVID-19 em unidades de tratamento intensivo (UTIs) em um dado dia
 icu_patients_per_million,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,"Número de pacientes de COVID-19 em unidades de tratamento intensivo (UTIs) em um dado dia por 1,000,000 pessoas"
 hosp_patients,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,Número de pacientes de COVID-19 no hospital em um dado dia
 hosp_patients_per_million,European CDC for European countries / UK Government / HHS for the United States / COVID-19 Tracker for Canada,"Número de pacientes de COVID-19 no hospital em um dado dia por 1,000,000 de pessoas"
 weekly_icu_admissions,European CDC for European countries / UK Government,Número de pacientes de COVID-19 novos admitidos em unidades de tratamento intensivo (UTIs) em uma dada semana
-weekly_icu_admissions_per_million,European CDC for European countries / UK Government,",Número de pacientes de COVID-19 novos admitidos em unidades de tratamento intensivo (UTIs) em uma dada semana por 1,000,000 de pessoas"
+weekly_icu_admissions_per_million,European CDC for European countries / UK Government,"Número de pacientes de COVID-19 novos admitidos em unidades de tratamento intensivo (UTIs) em uma dada semana por 1,000,000 de pessoas"
 weekly_hosp_admissions,European CDC for European countries / UK Government / HHS for the United States,Número de pacientes de COVID-19 novos admitidos em hospitais em uma dada semana
 weekly_hosp_admissions_per_million,European CDC for European countries / UK Government / HHS for the United States,"Número de pacientes de COVID-19 novos admitidos em hospitais em uma dada semana por 1,000,000 de pessoas"
 total_tests,National government reports,Total de testes para COVID-19
@@ -43,8 +43,8 @@ people_vaccinated_per_hundred,National government reports,Numero total de pessoa
 people_fully_vaccinated_per_hundred,National government reports,Numero total de pessoas que receberam todas as doses determinadas pelos protocolos por 100 pessoas no total da população
 new_vaccinations_smoothed_per_million,National government reports,"Novas doses de vacina COVID-19  administadas (7-day smoothed) por 1,000,000 pessoas no total da população"
 stringency_index,"Oxford COVID-19 Government Response Tracker, Blavatnik School of Government","Government ´Tndice de Resposta Rigorosa: medida composta baseada em 9 indicadores incluindo fechamento de escolas, fechamento de locais de trabalho, e restrições de viagens, redimensionada pra um valor de 0 a 100 (100 = resposta mais rígida)"
-population,"United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects 2019 Revision",Populaação em 2020
-population_density,"World Bank World Development Indicators, sourced from Food and Agriculture Organization and World Bank estimates","Numéro da população dividido por área geográfica, medido em kilometros quadrados, ano mais recente disponível"
+population,"United Nations, Department of Economic and Social Affairs, Population Division, World Population Prospects 2019 Revision",População em 2020
+population_density,"World Bank World Development Indicators, sourced from Food and Agriculture Organization and World Bank estimates","Número da população dividido por área geográfica, medido em kilometros quadrados, ano mais recente disponível"
 median_age,"UN Population Division, World Population Prospects, 2017 Revision","Idade média da população, projeção das Nações Unidas para 2020"
 aged_65_older,World Bank World Development Indicators based on age/sex distributions of United Nations World Population Prospects 2017 Revision,"Parcela da população com 65 anos ou mais, ano mais recente disponível"
 aged_70_older,"United Nations, Department of Economic and Social Affairs, Population Division (2017), World Population Prospects 2017 Revision",Parcela da população com 70 anos ou mais em 2015
